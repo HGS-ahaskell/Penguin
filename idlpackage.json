@@ -1,0 +1,11 @@
+{
+    "Name": "Penguin",
+    "Version": "2.0",
+    "Author": "eddie",
+    "Dependency": [
+        {
+            "Name": "Dragon",
+            "URL": "C:\\Workspace\\temp\\packages\\dragon.zip"
+        }
+    ]
+}
