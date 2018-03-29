@@ -5,7 +5,7 @@
     "Dependency": [
         {
             "Name": "Dragon",
-            "URL": "C:\\Workspace\\temp\\packages\\dragon.zip"
+            "URL": "http://github.com/ehaskell101/Dragon"
         }
     ]
 }
